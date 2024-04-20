@@ -1,1 +1,23 @@
-aaa
+STM32H7S78-DK
+  https://www.st.com/en/evaluation-tools/stm32h7s78-dk.html
+
+  ST-LINKの概要
+    TN1235  Overview of ST-LINK derivatives
+  
+  ユーザーズマニュアル
+    UM3289  Discovery kit with STM32H7S7L8 MCU
+    機能一覧、使い方、ブロック図、電源、ピン配
+
+
+＃＃＃STM32Cube MCU for STM32H7R/S
+  https://www.st.com/en/embedded-software/stm32cubeh7rs.html
+
+＃＃＃STM32H7R7L8
+  https://www.st.com/en/microcontrollers-microprocessors/stm32h7s7l8.html
+
+＃＃＃Azure RTOS
+  https://www.st.com/en/embedded-software/x-cube-azrt-h7rs.html
+
+＃＃＃TouchGFX
+  https://www.st.com/en/embedded-software/x-cube-touchgfx.html
+
