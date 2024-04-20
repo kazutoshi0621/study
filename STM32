@@ -9,8 +9,47 @@ STM32H7S78-DK
     機能一覧、使い方、ブロック図、電源、ピン配
 
 
-＃＃＃STM32Cube MCU for STM32H7R/S
+STM32Cube MCU for STM32H7R/S
   https://www.st.com/en/embedded-software/stm32cubeh7rs.html
+
+  サンプルソースの説明
+    AN6077  Introduction to STM32Cube MCU Package examples for STM32H7Rx/7Sx MCUs
+
+    各種ペリフェラルの使い方のサンプル。
+      ADC     AD変換
+      CRC     CRC計算
+      DMA     DMA。リンクリストも。
+      DMA2D   アルファブレンディングつきDMA
+      DTS     チップの温度測定
+      FLASH   読み書き消去。ECCエラー。
+      GFXTIM  グラフィックス用タイマ・割込
+      GPIO    単純なON/OFF、割り込みの使い方
+      HASH    ハッシュ計算
+      I2C     送受信。割込を使う方法、DMAを使う方法。
+      IWDG    ウォッチドッグ
+      JPEG    エンコードとデコード
+      LPTIM   低電力モード時に使えるタイマ
+      LTDC    2レイヤーを同時表示するサンプル
+      PWR     スリープモードへの移行、スリープモードからの復帰
+      RAMECC  ECCエラー
+      RCC
+      RNG     乱数生成
+      RTC
+      SPI     ポーリングモードでの読み書き、DMAや割込の例
+      TIM     タイマの使い方いろいろ
+      UART    普通の使い方、DMA、割込
+      USART   使い方
+      WWDG    ウォッチドッグ
+      XSPI    使い方
+      USB     ホスト、デバイス
+
+    など
+
+  ＃＃＃UM3309  Description of STM32H7Rx/7Sx HAL and low-layer drivers
+
+  ＃＃＃UM1722  Developing applications on STM32Cube with RTOS
+
+  ＃＃＃UM2298  STM32Cube BSP drivers development guidelines
 
 ＃＃＃STM32H7R7L8
   https://www.st.com/en/microcontrollers-microprocessors/stm32h7s7l8.html
@@ -21,3 +60,4 @@ STM32H7S78-DK
 ＃＃＃TouchGFX
   https://www.st.com/en/embedded-software/x-cube-touchgfx.html
 
+＃＃＃UM1718（STM32CubeMXユーザーズ）
